@@ -1,14 +1,6 @@
-             ,
-         -  /|
-        -  / |
-      -   /o |
-   ~^~ ^~//-'|~^~ ~^~
-    ~^~.-->>---. ~^ ~^~
-   ~^~ `"""""""` ^~^ ~^
-    ~^~ ~^ ~^~^ ~^~^ ~^
-    Max Oberberger
-    github@oberbergers.de
-    https://github.com/chiemseesurfer/configFiles
+Max Oberberger
+github@oberbergers.de
+https://github.com/chiemseesurfer/configFiles
 
 ##########################################################################
 Copyright 2013 Max Oberberger
