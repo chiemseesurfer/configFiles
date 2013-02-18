@@ -1,0 +1,46 @@
+# Enable caching of up to 1000 output entriess
+cache-size=1000
+
+# Specify some default clone prefixes
+clone-prefix=http://USER@host/git/repo.git
+
+# Specify the css url
+css=/cgit.css
+
+# Specify the logo url
+logo=/cgit.png
+
+# Show extra links for each repository on the index page
+enable-index-links=1
+
+# Show number of affected files per commit on the log pages
+enable-log-filecount=1
+
+# Show number of added/removed lines per commit on the log pages
+enable-log-linecount=1
+
+# Set the title and heading of the repository index page
+root-title=My git repositories
+root-desc=containing all git repositories
+
+# Allow download of tar.gz, tar.bz2 and zip-files
+snapshots=tar.gz
+
+scan-path=/data/repos/git
+
+source-filter=/usr/lib/cgit/filters/syntax-highlighting.sh
+
+remove-suffix=1
+
+
+##
+## List of common mimetypes
+##
+
+mimetype.git=image/git
+mimetype.html=text/html
+mimetype.jpg=image/jpeg
+mimetype.jpeg=image/jpeg
+mimetype.pdf=application/pdf
+mimetype.png=image/png
+mimetype.svg=image/svg+xml
