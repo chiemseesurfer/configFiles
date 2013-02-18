@@ -9,7 +9,7 @@
     ~^~ ~^ ~^~^ ~^~^ ~^
     Max Oberberger
     github@oberbergers.de
-    https://github.com/chiemseesurfer/git-scripts
+    https://github.com/chiemseesurfer/configFiles
 </code></pre>
 
 ##########################################################################
