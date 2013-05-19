@@ -1,0 +1,12 @@
+<VirtualHost pool.maxoberberger.net:80>
+	ServerAdmin admin@oberbergers.de
+
+	DocumentRoot /var/www/debianPool
+	<Directory /var/www/debianPool/>
+		AllowOverride None
+		Options ExecCGI -MultiViews +SymLinksIfOwnerMatch
+		Order allow,deny
+		allow from all
+	</Directory>
+
+</VirtualHost>

@@ -1,0 +1,8 @@
+Origin: pool.maxoberberger.net
+Label: apt repository
+Codename: squeeze
+Architectures: amd64 source
+Components: main
+Description: Oberberger debian package repo
+SignWith: yes
+Pull: squeeze
