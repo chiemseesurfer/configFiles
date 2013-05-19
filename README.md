@@ -39,3 +39,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 ## cgit
 - **cgitrc**: config file for cgit
 - **repositories.conf**: apache2 vhost file to use cgit
+
+## debianPool
+- **distributions**: settings file for debian repository
+- **pool**: vhost configuration file for apache2
